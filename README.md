@@ -8,11 +8,11 @@ Built from scratch (no LangChain / LlamaIndex) to actually understand every movi
 
 ## How it works
 
-**Ingestion — runs once, before any questions are asked**
+**Ingestion - runs once, before any questions are asked**
 
 ![Ingestion pipeline](diagrams/ingestion_pipeline.png)
 
-**Query — runs every time a question is asked**
+**Query - runs every time a question is asked**
 
 ![Query pipeline](diagrams/query_pipeline.png)
 
