@@ -1,4 +1,4 @@
-# Local RAG with Ollama — PDF Q&A
+# Local RAG with Ollama - PDF Q&A
 
 A Retrieval-Augmented Generation (RAG) pipeline that runs **entirely on your own machine** — no API keys, no cloud calls, no per-query cost. Ask questions about any PDF or Word document, and a local LLM answers using only the retrieved, relevant content from that document.
 
